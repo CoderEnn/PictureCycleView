@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>图片轮播器－swift.xcscheme</key>
+		<key>图片轮播器swift.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3AD9F9841C831CE0004E6399</key>
+		<key>3AA2A0771C8BF46100B593F8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
